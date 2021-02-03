@@ -5,7 +5,7 @@ Sebelum anda mengerjakan soal ujian, pastikan anda memiliki akun **GitHub** dan 
 
 Soal ujian dan database dapat anda temukan didalam repositori ini atau anda dapat melihatnya melalui link dibawah ini
 
-- link : https://drive.google.com/file/d/1ZnWgPfkpocLoHDioUWXif-O3j45AEWHn/view?usp=sharing
+- link : https://drive.google.com/file/d/1h3pgVGJdpIEbNdU7RmACPmZD5KnyTcGC/view?usp=sharing
 - database : https://github.com/alee0510/databases/blob/master/backend_2021.sql
 
 Sebelum mengerjakan ujian, bacalah dengan seksama aturan serta panduan dalam mengerjakan soal-soal ujian berikut ini.
